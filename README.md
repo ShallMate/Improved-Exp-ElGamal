@@ -11,3 +11,5 @@
 ## If you don't want to spend time configuring the environment, get the code running. We also give an experimental result in our environment (main frequency: 2.8GHZ):
 
 ![Image text](https://github.com/ShallMate/Improved-Exp-ElGamal/blob/main/res.png)
+
+The above experimental results are the average of 1000 runs. Since the test data are random numbers, the experimental results may fluctuate slightly, but it still does not affect the improved Exp-ElGamal. It is the most efficient AHE scheme we know.
