@@ -8,4 +8,4 @@
 
 (4) If you want to change the length of the plaintext (of course, this is the work after the code runs successfully), you can do it by changing the two variables Ilen and Jlen in ciphering.go, Ilen+Jlen is equal to the length of the plaintext, and our improved-Exp-ElGamal supports negative arithmetic.
 
-![Image text]()
+![Image text](https://github.com/ShallMate/Improved-Exp-ElGamal/blob/main/res.png)
