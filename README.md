@@ -6,4 +6,4 @@
 
 (3) You can get a feel for the efficiency of the improved Exp-ElGamal by running test.go in the test folder.
 
-(3) If you want to change the length of the plaintext (of course, this is the work after the code runs successfully), you can do it by changing the two variables Ilen and Jlen in ciphering.go, Ilen+Jlen is equal to the length of the plaintext, and it supports negative arithmetic.
+(4) If you want to change the length of the plaintext (of course, this is the work after the code runs successfully), you can do it by changing the two variables Ilen and Jlen in ciphering.go, Ilen+Jlen is equal to the length of the plaintext, and it supports negative arithmetic.
