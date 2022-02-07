@@ -12,4 +12,4 @@
 
 ![Image text](https://github.com/ShallMate/Improved-Exp-ElGamal/blob/main/res.png)
 
-The above experimental results are the average of 1000 runs. Since the test data are random numbers, the experimental results may fluctuate slightly, but it still does not affect the improved Exp-ElGamal. It is the most efficient AHE scheme we know.
+The above experimental results are the average of 1000 runs. Our improved Exp-ElGamal is the most efficient AHE scheme we know.
